@@ -9,5 +9,5 @@ Test if your application works with the header and all.
 Test the application with the following command.
 
 ```bash
-npm start
+npm run start
 ```
